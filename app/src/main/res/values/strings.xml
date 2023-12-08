@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTSMP3</string>
+    <string name="home"></string>
+    <string name="diet"></string>
+    <string name="excercise"></string>
+    <string name="profile"></string>
+</resources>
